@@ -1,0 +1,14 @@
+/home/utsavde/demo-web-app/demo/bin/Debug/netcoreapp2.2/demo.deps.json
+/home/utsavde/demo-web-app/demo/bin/Debug/netcoreapp2.2/demo.runtimeconfig.json
+/home/utsavde/demo-web-app/demo/bin/Debug/netcoreapp2.2/demo.runtimeconfig.dev.json
+/home/utsavde/demo-web-app/demo/bin/Debug/netcoreapp2.2/demo.dll
+/home/utsavde/demo-web-app/demo/bin/Debug/netcoreapp2.2/demo.pdb
+/home/utsavde/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.csprojAssemblyReference.cache
+/home/utsavde/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.csproj.CoreCompileInputs.cache
+/home/utsavde/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.RazorAssemblyInfo.cache
+/home/utsavde/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.RazorAssemblyInfo.cs
+/home/utsavde/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.AssemblyInfoInputs.cache
+/home/utsavde/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.AssemblyInfo.cs
+/home/utsavde/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.RazorTargetAssemblyInfo.cache
+/home/utsavde/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.dll
+/home/utsavde/demo-web-app/demo/obj/Debug/netcoreapp2.2/demo.pdb
